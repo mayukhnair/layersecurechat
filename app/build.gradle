@@ -8,7 +8,7 @@ android {
     defaultConfig {
         applicationId "com.layer.quick_start_android"
         minSdkVersion 14
-        targetSdkVersion 21
+        targetSdkVersion 23
         versionCode 1
         versionName "1.0"
     }
